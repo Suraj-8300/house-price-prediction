@@ -1,6 +1,3 @@
-House price Prediction Prototype
-https://house-price-prediction-fkyawj6kwjxfdxugfxtmsb.streamlit.app/
-
 # House Price Prediction
 
 A machine learning project to predict house prices using the Kaggle House Prices dataset. Includes a Jupyter notebook for model training and a Streamlit app for interactive predictions.
@@ -38,5 +35,6 @@ Dataset
 Kaggle House Prices - Advanced Regression Techniques
 
 Results
-RMSE on test set: [Your RMSE, e.g., 35000.50]
+RMSE on test set: 69510.14107197429
+
 Live app: https://house-price-prediction-fkyawj6kwjxfdxugfxtmsb.streamlit.app
